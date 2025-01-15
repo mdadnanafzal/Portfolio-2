@@ -2,7 +2,7 @@
 
 ---
 
-# Portfolio-2[https://portfolio-2-brown-delta.vercel.app/](url)
+# Portfolio-2[portfolio-2-brown-delta.vercel.app](url)
 
 Welcome to my portfolio repository! This project showcases my skills and the technologies I've used. Below, you'll find an overview of the tech stacks and tools that power this project.
 
