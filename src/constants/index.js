@@ -10,34 +10,27 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer w
 
 My journey in technology began with a curiosity for problem-solving, and it has grown into a career path where I constantly seek to learn and embrace new challenges. I thrive in collaborative environments and enjoy crafting scalable solutions that make a real-world impact. Outside of coding, I explore new technologies, participate in coding challenges, and contribute to innovative projects.`;
 
-export const EXPERIENCES = [
+export const CERTIFICATES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
+    year: "2023",
+    role: "Google Data Analytics",
     company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    description: `Gained an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. Understood how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming. Learned key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau). Also Learned how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms  `,
+    technologies: ["Tableau Software", "BigQuery", "SQL", "Excel"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2023",
+    role: "Web-Development",
+    company: "Udemy",
+    description: `Learn the latest technologies, including Javascript, React, Node and even Web3 development. Built fully-fledged websites and web apps like flappy birds and keeper app. Mastered frontend development with React and backend development with Node. Learned professional developer best practices.`,
+    technologies: ["HTML", "CSS", "JS", "POSTGRES SQL", "NODE JS", "REACT JS"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2022",
+    role: "AI and Machine learning using python",
+    company: "KIIT",
+    description: `The curriculum covered foundational concepts, including the principles and objectives of Machine Learning, and provided an in-depth understanding of the ML workflow, from data preparation to model evaluation. Participants learned about the importance of datasets, how to preprocess and manage them, and explored a variety of machine learning algorithms such as supervised and unsupervised learning methods.`,
+    technologies: ["Python", "ML Algo", "ML tools", "open CV"],
   },
 ];
 

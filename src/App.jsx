@@ -3,7 +3,7 @@ import NavBar from "./components/navBar.jsx";
 import Hero from "./components/hero.jsx";
 import About from "./components/aboutMe.jsx";
 import Technologies from "./components/technologies.jsx";
-import Experience from "./components/experience.jsx";
+import CERTIFICATES from "./components/certificates.jsx";
 import Projects from "./components/projects.jsx";
 import Contact from "./components/contact.jsx";
 
@@ -20,8 +20,8 @@ const App = () => {
                 <Hero/>
                 <About/>
                 <Technologies/>
-                {/*<Experience/>*/}
                 <Projects/>
+                <CERTIFICATES/>
                 <Contact/>
             </div>
         </div>
